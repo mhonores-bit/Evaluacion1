@@ -1,0 +1,38 @@
+body { 
+font-family: Arial, sans-serif; 
+background-color: #f9f9f9; 
+
+}
+h1 { 
+text-align: center; 
+color: #232323; 
+} 
+h2{
+color: #0441FF
+}
+h3{
+color: #E0E615
+}
+h4{
+color: #E0E615
+}
+ol { 
+list-style: none; 
+padding: 0; 
+margin: 0; 
+} 
+li { margin-bottom: 5px;
+} 
+footer{
+text-align: center;
+background-color: #E21A1A;
+padding: 20px;
+margin-top: 200px;
+}
+a{
+color: #074BDC;
+text-decoration: none;   
+}
+a:hover{
+ color: #f39c12;   
+}
